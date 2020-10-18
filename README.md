@@ -1,7 +1,12 @@
 # thermal_printer_flutter
 
-A new Flutter project.
+ 
+Flutter Thermal Printer Bluetooth Example 
 
+[Youtube Link ](https://www.youtube.com/watch?v=ovTqwrV7JZI)
+
+Flutter SDK 1.12.13+hotfix.7
+#
 ## Getting Started
 
 This project is a starting point for a Flutter application.
